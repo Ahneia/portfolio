@@ -1,0 +1,262 @@
+# Translation of Plugins - CoolClock &#8211; a Javascript Analog Clock - Stable (latest release) in Swedish
+# This file is distributed under the same license as the Plugins - CoolClock &#8211; a Javascript Analog Clock - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-29 14:11:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - CoolClock &#8211; a Javascript Analog Clock - Stable (latest release)\n"
+
+#: includes/class-coolclock-widget.php:233
+msgid "Digital color:"
+msgstr "Digital färg:"
+
+#: includes/class-coolclock-widget.php:217
+msgid "(leave blank for visitor local time)"
+msgstr "(lämna tomt för besökarens lokal tid)"
+
+#: includes/class-coolclock-widget.php:234
+msgid "(use a valid HTML color code or name)"
+msgstr "(använd en giltig HTML-färgkod eller namn)"
+
+#: includes/class-coolclock-widget.php:236
+msgid "More digital font options &raquo;"
+msgstr "Fler digitala typsnittsalternativ &raquo;"
+
+#. Author of the plugin
+msgid "RavanH"
+msgstr "RavanH"
+
+#. Plugin Name of the plugin
+msgid "CoolClock"
+msgstr "CoolClock"
+
+#: includes/class-coolclock-widget.php:237
+msgid "Background"
+msgstr "Bakgrund"
+
+#: includes/class-coolclock-widget.php:205
+msgid "right"
+msgstr "höger"
+
+#: includes/class-coolclock-widget.php:202
+msgid "left"
+msgstr "vänster"
+
+#: includes/class-coolclock-widget.php:153
+msgid "Title:"
+msgstr "Rubrik:"
+
+#: includes/class-coolclock-widget.php:157
+msgid "Clock"
+msgstr "Klocka"
+
+#: includes/class-coolclock-widget.php:143
+msgid "date"
+msgstr "datum"
+
+#: includes/class-coolclock-widget.php:142
+msgid "time (24h)"
+msgstr "tid (24h)"
+
+#: includes/class-coolclock-widget.php:141
+msgid "time (am/pm)"
+msgstr "tid (am / pm)"
+
+#: includes/class-coolclock-widget.php:13
+msgid "Analog Clock"
+msgstr "Analog klocka"
+
+#. Description of the plugin
+#: includes/class-coolclock-widget.php:16
+msgid "Add an analog clock to your sidebar."
+msgstr "Lägg till en analog klocka i din sidopanel."
+
+#: includes/class-coolclock-widget.php:243
+msgid "Please log in with your account credentials here."
+msgstr "Logga in med ditt kontouppgifter här."
+
+#: includes/class-coolclock-widget.php:195
+msgid "Align:"
+msgstr "Justera:"
+
+#: includes/class-coolclock-widget.php:184
+msgid "Scale:"
+msgstr "Skala:"
+
+#: includes/class-coolclock-widget.php:140
+#: includes/class-coolclock-widget.php:199
+msgid "none"
+msgstr "ingen"
+
+#: includes/class-coolclock-widget.php:134
+msgid "Logarithmic"
+msgstr "Logaritmisk"
+
+#: includes/class-coolclock-widget.php:133
+msgid "Linear"
+msgstr "Linjär"
+
+#: includes/class-coolclock-widget.php:126
+msgid "Minimal"
+msgstr "Minimal"
+
+#. Author URI of the plugin
+msgid "https://status301.net/"
+msgstr "https://status301.net/"
+
+#. Plugin URI of the plugin
+msgid "https://status301.net/wordpress-plugins/coolclock/"
+msgstr "https://status301.net/wordpress-plugins/coolclock/"
+
+#: includes/class-coolclock-widget.php:104
+msgid "Swiss Rail"
+msgstr "Schweiziska järnvägen"
+
+#: includes/class-coolclock-widget.php:105
+msgid "Chunky Swiss"
+msgstr "Klumpigt schweizerur"
+
+#: includes/class-coolclock-widget.php:106
+msgid "Chunky Swiss White"
+msgstr "Klumpigt vitt schweizerur"
+
+#: includes/class-coolclock-widget.php:107
+msgid "Fancy"
+msgstr "Fantasifull"
+
+#: includes/class-coolclock-widget.php:108
+msgid "Machine"
+msgstr "Maskin"
+
+#: includes/class-coolclock-widget.php:109
+msgid "SimonBaird.com"
+msgstr "SimonBaird.com"
+
+#: includes/class-coolclock-widget.php:113
+msgid "SecurePHP"
+msgstr "SecurePHP"
+
+#: includes/class-coolclock-widget.php:114
+msgid "Tes2"
+msgstr "Tes2"
+
+#: includes/class-coolclock-widget.php:115
+msgid "Lev"
+msgstr "Lev"
+
+#: includes/class-coolclock-widget.php:116
+msgid "Sand"
+msgstr "Sand"
+
+#: includes/class-coolclock-widget.php:117
+msgid "Sun"
+msgstr "Sol"
+
+#: includes/class-coolclock-widget.php:118
+msgid "Tor"
+msgstr "Tor"
+
+#: includes/class-coolclock-widget.php:119
+msgid "Cold"
+msgstr "Kallt"
+
+#: includes/class-coolclock-widget.php:120
+msgid "Babosa"
+msgstr "Babosa"
+
+#: includes/class-coolclock-widget.php:121
+msgid "Tumb"
+msgstr "Tumb"
+
+#: includes/class-coolclock-widget.php:122
+msgid "Stone"
+msgstr "Sten"
+
+#: includes/class-coolclock-widget.php:123
+msgid "Disc"
+msgstr "Skiva"
+
+#: includes/class-coolclock-widget.php:124
+msgid "Watermelon by Yoo Nhe"
+msgstr "Vattenmelon av Yoo Nhe"
+
+#: includes/class-coolclock-widget.php:125
+msgid "Mister by Carl Lister"
+msgstr "Mister av Carl Lister"
+
+#: includes/class-coolclock-widget.php:135
+msgid "Logarithmic reversed"
+msgstr "Omvänd logaritmisk"
+
+#: includes/class-coolclock-widget.php:110
+msgid "Classic by Bonstio"
+msgstr "Klassisk av Bonstio"
+
+#: includes/class-coolclock-widget.php:111
+msgid "Modern by Bonstio"
+msgstr "Modern av Bonstio"
+
+#: includes/class-coolclock-widget.php:112
+msgid "Simple by Bonstio"
+msgstr "Enkel av Bonstio"
+
+#: includes/class-coolclock-widget.php:148
+msgid "Extra settings for the CoolClock widget."
+msgstr "Extra inställningar för CoolClock-widget."
+
+#: includes/class-coolclock-widget.php:168
+msgid "Custom (define below)"
+msgstr "Anpassat (definiera nedan)"
+
+#: includes/class-coolclock-widget.php:171
+msgid "Custom skin parameters:"
+msgstr "Anpassade parametrar för skalet:"
+
+#: includes/class-coolclock-widget.php:175
+msgid "Radius:"
+msgstr "Radie:"
+
+#: includes/class-coolclock-widget.php:181
+msgid "Hide second hand"
+msgstr "Dölj sekundvisaren"
+
+#: includes/class-coolclock-widget.php:223
+msgid "Show digital:"
+msgstr "Visa med siffror:"
+
+#: includes/class-coolclock-widget.php:216
+msgid "GMT offset:"
+msgstr "Förskjutning mot GMT:"
+
+#: includes/class-coolclock-widget.php:208
+msgid "center"
+msgstr "centrerat"
+
+#: includes/class-coolclock-widget.php:212
+msgid "Subtext:"
+msgstr "Text nedanför:"
+
+#: includes/class-coolclock-widget.php:213
+msgid "(basic HTML allowed)"
+msgstr "(enkel HTML kan användas)"
+
+#: includes/class-coolclock-widget.php:237
+msgid "Available in the Advanced extension &raquo;"
+msgstr "Finns i utökningen Advanced &raquo;"
+
+#: includes/class-coolclock-widget.php:243
+msgid "Please upgrade the CoolClock - Advanced extension."
+msgstr "Uppgradera gärna till utökningen CoolClock – Advanced."
+
+#: includes/class-coolclock-widget.php:243
+msgid "You can download the new version using the link in the downloads list."
+msgstr "Du kan ladda ned den nya versionen via länken i listan över nedladdningar."
+
+#: includes/class-coolclock-widget.php:158
+msgid "Skin:"
+msgstr "Skal:"

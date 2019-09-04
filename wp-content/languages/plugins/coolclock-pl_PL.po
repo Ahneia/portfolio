@@ -1,0 +1,251 @@
+# Translation of Plugins - CoolClock &#8211; a Javascript Analog Clock - Stable (latest release) in Polish
+# This file is distributed under the same license as the Plugins - CoolClock &#8211; a Javascript Analog Clock - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-10-30 15:37:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: pl\n"
+"Project-Id-Version: Plugins - CoolClock &#8211; a Javascript Analog Clock - Stable (latest release)\n"
+
+#. Author of the plugin/theme
+msgid "RavanH"
+msgstr "RavanH"
+
+#. Plugin Name of the plugin/theme
+msgid "CoolClock"
+msgstr "CoolClock"
+
+#. #-#-#-#-#  coolclock-code.pot (CoolClock 4.0)  #-#-#-#-#
+#. Description of the plugin/theme
+#: includes/class-coolclock-widget.php:16
+msgid "Add an analog clock to your sidebar."
+msgstr "Dodaj zegar analogowy do panelu bocznego."
+
+#: includes/class-coolclock-widget.php:13
+msgid "Analog Clock"
+msgstr "Zegar analogowy"
+
+#: includes/class-coolclock-widget.php:236
+msgid "You can download the new version using the link in the downloads list."
+msgstr "Możesz pobrać nową wersję, używając łącza z listy plików do pobrania."
+
+#: includes/class-coolclock-widget.php:236
+msgid "Please log in with your account credentials here."
+msgstr "Zaloguj się, używając danych do logowania swojego konta."
+
+#: includes/class-coolclock-widget.php:231
+msgid "Available in the Advanced extension &raquo;"
+msgstr "Dostępne w w wersji z rozszerzeniami zaawansowanymi &raquo;"
+
+#: includes/class-coolclock-widget.php:231
+msgid "Background"
+msgstr "Tło"
+
+#: includes/class-coolclock-widget.php:228
+msgid "(basic HTML allowed)"
+msgstr "(dopuszczalne stosowanie podstawowego kodu HTML)"
+
+#: includes/class-coolclock-widget.php:227
+msgid "Subtext:"
+msgstr "Subtekst:"
+
+#: includes/class-coolclock-widget.php:223
+msgid "center"
+msgstr "wyśrodkuj"
+
+#: includes/class-coolclock-widget.php:220
+msgid "right"
+msgstr "od prawej strony"
+
+#: includes/class-coolclock-widget.php:217
+msgid "left"
+msgstr "od lewej strony"
+
+#: includes/class-coolclock-widget.php:210
+msgid "Align:"
+msgstr "Wyrównaj:"
+
+#: includes/class-coolclock-widget.php:199
+msgid "Scale:"
+msgstr "Wyskaluj:"
+
+#: includes/class-coolclock-widget.php:196
+msgid "(leave blank for local time)"
+msgstr "(zostaw puste, aby wybrać czas lokalny)"
+
+#: includes/class-coolclock-widget.php:195
+msgid "GMT offset:"
+msgstr "Przesunięcie względem GMT (UTC)"
+
+#: includes/class-coolclock-widget.php:184
+msgid "Show digital:"
+msgstr "Pokaż wersję cyfrową"
+
+#: includes/class-coolclock-widget.php:178
+msgid "Hide second hand"
+msgstr "Ukryj wskazówkę sekundową"
+
+#: includes/class-coolclock-widget.php:172
+msgid "Radius:"
+msgstr "Promień:"
+
+#: includes/class-coolclock-widget.php:168
+msgid "Custom skin parameters:"
+msgstr "Indywidualne parametry skórki:"
+
+#: includes/class-coolclock-widget.php:165
+msgid "Custom (define below)"
+msgstr "Indywidualna (zdefiniuj poniżej)"
+
+#: includes/class-coolclock-widget.php:155
+msgid "Skin:"
+msgstr "Skórka:"
+
+#: includes/class-coolclock-widget.php:154
+msgid "Clock"
+msgstr "Zegar"
+
+#: includes/class-coolclock-widget.php:150
+msgid "Title:"
+msgstr "Tytuł:"
+
+#: includes/class-coolclock-widget.php:141
+msgid "date"
+msgstr "data"
+
+#: includes/class-coolclock-widget.php:140
+msgid "time (24h)"
+msgstr "czas (24h)"
+
+#: includes/class-coolclock-widget.php:139
+msgid "time (am/pm)"
+msgstr "czas (am/pm)"
+
+#: includes/class-coolclock-widget.php:138
+#: includes/class-coolclock-widget.php:214
+msgid "none"
+msgstr "brak"
+
+#: includes/class-coolclock-widget.php:133
+msgid "Logarithmic reversed"
+msgstr "Logarytmiczny odwrotny"
+
+#: includes/class-coolclock-widget.php:132
+msgid "Logarithmic"
+msgstr "Logarytmiczny"
+
+#: includes/class-coolclock-widget.php:131
+msgid "Linear"
+msgstr "Liniowy"
+
+#: includes/class-coolclock-widget.php:124
+msgid "Minimal"
+msgstr "Minimalny"
+
+#: includes/class-coolclock-widget.php:123
+msgid "Mister by Carl Lister"
+msgstr "Mister by Carl Lister"
+
+#: includes/class-coolclock-widget.php:122
+msgid "Watermelon by Yoo Nhe"
+msgstr "Arbuz Yoo Nhe"
+
+#: includes/class-coolclock-widget.php:121
+msgid "Disc"
+msgstr "Tarcza"
+
+#: includes/class-coolclock-widget.php:120
+msgid "Stone"
+msgstr "Kamień"
+
+#: includes/class-coolclock-widget.php:119
+msgid "Tumb"
+msgstr "Tumb"
+
+#: includes/class-coolclock-widget.php:118
+msgid "Babosa"
+msgstr "Ślimak"
+
+#: includes/class-coolclock-widget.php:117
+msgid "Cold"
+msgstr "Zimny"
+
+#: includes/class-coolclock-widget.php:116
+msgid "Tor"
+msgstr "Tor"
+
+#: includes/class-coolclock-widget.php:115
+msgid "Sun"
+msgstr "Słońce"
+
+#: includes/class-coolclock-widget.php:114
+msgid "Sand"
+msgstr "Piasek"
+
+#: includes/class-coolclock-widget.php:113
+msgid "Lev"
+msgstr "Lev"
+
+#: includes/class-coolclock-widget.php:112
+msgid "Tes2"
+msgstr "Tes2"
+
+#: includes/class-coolclock-widget.php:111
+msgid "SecurePHP"
+msgstr "SecurePHP"
+
+#: includes/class-coolclock-widget.php:110
+msgid "Simple by Bonstio"
+msgstr "Prosty Bonstio"
+
+#: includes/class-coolclock-widget.php:109
+msgid "Modern by Bonstio"
+msgstr "Nowoczesny Bonstio"
+
+#: includes/class-coolclock-widget.php:108
+msgid "Classic by Bonstio"
+msgstr "Klasyczny Bonstio"
+
+#: includes/class-coolclock-widget.php:107
+msgid "SimonBaird.com"
+msgstr "SimonBaird.com"
+
+#: includes/class-coolclock-widget.php:106
+msgid "Machine"
+msgstr "Maszyna"
+
+#: includes/class-coolclock-widget.php:105
+msgid "Fancy"
+msgstr "Fantazyjny"
+
+#: includes/class-coolclock-widget.php:104
+msgid "Chunky Swiss White"
+msgstr "Smukły Szwajcarski Biały"
+
+#: includes/class-coolclock-widget.php:103
+msgid "Chunky Swiss"
+msgstr "Smukły Szwajcarski"
+
+#: includes/class-coolclock-widget.php:102
+msgid "Swiss Rail"
+msgstr "Szwajcarski kolejowy"
+
+#. Author URI of the plugin/theme
+msgid "https://status301.net/"
+msgstr "https://status301.net/"
+
+#. Plugin URI of the plugin/theme
+msgid "https://status301.net/wordpress-plugins/coolclock/"
+msgstr "https://status301.net/wordpress-plugins/coolclock/"
+
+#: includes/class-coolclock-widget.php:236
+msgid "Please upgrade the CoolClock - Advanced extension."
+msgstr "Wykonaj upgrade CoolClock - rozszerzenia zaawansowane."
+
+#: includes/class-coolclock-widget.php:146
+msgid "Extra settings for the CoolClock widget."
+msgstr "Dodatkowe ustawienia dla widżetu CoolClock"
